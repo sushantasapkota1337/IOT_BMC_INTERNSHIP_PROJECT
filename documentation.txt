@@ -1,0 +1,21 @@
+April 10 - collecting all the resources and IO devices to work on.
+https://www.raspberrypi.org/documentation/setup/
+April 11 - trying to connect to PC using vnc server software but failed and lagged procedure
+April 12 - trying to make bootable Sd card for raspberry pi from Windows 10 pc using rasberry pi official raspian.exe tool.
+April 11 - Placing raspbian os buster (image laoder iso) file on SD card and management of the display devices and vga to hdmi converter
+https://www.raspberrypi.org/documentation/installation/installing-images/
+https://www.raspberrypi.org/software/operating-systems/
+April 12 - running of installed os on raspbery pi (Day 01)
+April 13 - running of installed os on raspbery pi(Day 02), re installation of the os, update and upgrade command and postgre sql database installation done.
+April 14 - Holiday new year (Teamviewer or ssh or scp connection.)
+April 15 - Installing ssh, Project title home automation, with mobile app deployment or in web/cloud service, installation of teamviewer but not working, SSH service enalbled on PI, information gathering about home automation ideas and concept
+https://linuxize.com/post/how-to-enable-ssh-on-raspberry-pi/
+https://www.raspberrypi.org/documentation/remote-access/ssh/
+https://www.teamviewer.com/en/solutions/remote-desktop/raspberry-pi/
+April 16 - Installation of vnc server on pi and client/viewer, working on public network, and private network also.
+https://lifehacker.com/how-to-control-a-raspberry-pi-remotely-from-anywhere-in-1792892937
+https://www.realvnc.com/en/raspberrypi/#sign-up
+https://www.realvnc.com/en/connect/download/viewer/
+my password adminraspberrypi or adminraspberry
+https://manage.realvnc.com/en/profile
+April 17 - Holiday 
